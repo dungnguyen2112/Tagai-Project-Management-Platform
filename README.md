@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![Tagai Logo](./frontend/public/icons/logo-color.svg)
-
 **Empowering Software Development Teams with Intelligent Project Management**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
